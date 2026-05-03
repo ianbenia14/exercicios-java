@@ -13,5 +13,7 @@ public class ex3 {
         double litros = scanner.nextDouble();
 
         System.out.println("consumo médio de: " + kms/litros + "kms por litro");
+
+        scanner.close();
     }
 }

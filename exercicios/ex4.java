@@ -20,6 +20,6 @@ public class ex4 {
         System.out.println("Salário fixo:" + salario);
         System.out.println("Salário final do mês:" + salarioFinal);
 
-
+        scanner.close();
     }
 }

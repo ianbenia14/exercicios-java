@@ -16,5 +16,7 @@ public class ex1 {
         
         System.out.println("A soma final é: " + soma);
 
+        scanner.close();
+
     }
 }

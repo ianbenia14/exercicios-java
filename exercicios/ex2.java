@@ -17,5 +17,7 @@ public class ex2 {
         System.out.println("A multplicação do número é: " + (num1*num2));
         System.out.println("A divisão do número é: " + (num1/num2));
 
+        scanner.close();
+
     }
 }

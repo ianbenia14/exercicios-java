@@ -22,7 +22,7 @@ public class ex5 {
         System.out.println("Nome do aluno: " + aluno);
         System.out.println("Média do aluno: " + media);
 
-
+        scanner.close();
 
     }
 }

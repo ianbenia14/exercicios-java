@@ -14,5 +14,6 @@ public class ex7 {
 
         System.out.println("Temperatura em graus Fahrenheit: " + f);
 
+        scanner.close();
     }
 }

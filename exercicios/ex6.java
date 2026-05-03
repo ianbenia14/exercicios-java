@@ -20,5 +20,6 @@ public class ex6 {
         System.out.println("Valor de A (trocado):" + a);
         System.out.println("Valor de B (trocado):" + b);
 
+        scanner.close();
     }
 }
